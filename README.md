@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Weclome to visit my technical blog @ MEDIUM
 - [Windows Terminal: How to set the initial (startup) directory](https://medium.com/@xinyustudio/windows-terminal-how-to-set-the-initial-startup-directory-4ce5a86f5bef)
 - [Different ways to try JavaScript code you may not be aware of: REPL tools for JS](https://medium.com/@xinyustudio/different-ways-to-try-javascript-code-you-may-not-be-aware-of-repl-tools-for-js-f7eb4ac64997)
 - [JavaScript: Get unique array elements of OBJECTS, remove duplicates in ONE-LINE code, yes!](https://medium.com/@xinyustudio/javascript-get-unique-array-elements-of-objects-remove-duplicates-in-one-line-code-yes-f54867ae2dd2)
