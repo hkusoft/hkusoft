@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-@ icon-gear Configuration
+<i class="fa fa-refresh fa-spin fa-2x"></i> &nbsp;**Refresh Page**
+
 
 <!--
 **hkusoft/hkusoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
